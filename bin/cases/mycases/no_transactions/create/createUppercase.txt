@@ -1,0 +1,11 @@
+#
+# create the same user twice but with uppercase first then lowercase
+create LIA123 password 100
+create lia123 pass 10
+quit
+*
+#
+Created user LIA123
+Failed to create user
+Goodbye
+*

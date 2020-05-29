@@ -1,0 +1,11 @@
+#
+# searches for cities that don't exist
+search "Seattle WA" "Portland" 1 10 10
+search "mango" "Portland" 1 10 10
+quit
+*
+#
+No flights match your selection
+No flights match your selection
+Goodbye
+*

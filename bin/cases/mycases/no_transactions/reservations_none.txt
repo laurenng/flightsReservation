@@ -1,0 +1,13 @@
+#
+# User has no reservations
+create lauren lauren 1000
+login lauren lauren
+reservations
+quit
+*
+#
+Created user lauren
+Logged in as lauren
+No reservations found
+Goodbye
+*

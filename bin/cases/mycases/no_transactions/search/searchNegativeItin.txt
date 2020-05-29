@@ -1,0 +1,9 @@
+#
+# tries to search for -10 itineraries
+search "Seattle WA" "Portland OR" 1 10 -10 
+quit
+*
+#
+Failed to search
+Goodbye
+*

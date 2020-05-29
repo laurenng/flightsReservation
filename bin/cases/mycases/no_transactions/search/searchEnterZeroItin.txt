@@ -1,0 +1,9 @@
+#
+# searches for 0 itineraries
+search "Seattle WA" "Portland OR" 1 10 0
+quit
+*
+#
+No flights match your selection
+Goodbye
+*

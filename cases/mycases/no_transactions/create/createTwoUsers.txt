@@ -1,0 +1,11 @@
+#
+# create two different users
+create lia lia 10
+create lauren lauren 1000
+quit
+*
+#
+Created user lia
+Created user lauren
+Goodbye
+*

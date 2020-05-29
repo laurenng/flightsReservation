@@ -1,0 +1,9 @@
+#
+# Tries to pay for a reservation while not logged in
+pay 1
+quit
+*
+#
+Cannot pay, not logged in
+Goodbye
+*

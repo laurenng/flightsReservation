@@ -1,0 +1,18 @@
+#
+# Tries to cancel reservation that doesn't exist
+create lauren lauren 1000
+login lauren lauren
+search "Seattle WA" "Boston MA" 1 1 1
+book 0
+cancel 10
+quit
+*
+#
+Created user lauren
+Logged in as lauren
+Itinerary 0: 1 flight(s), 297 minutes
+ID: 60454 Day: 1 Carrier: AS Number: 24 Origin: Seattle WA Dest: Boston MA Duration: 297 Capacity: 14 Price: 140
+Booked flight(s), reservation ID: 1
+Failed to cancel reservation 10
+Goodbye
+*

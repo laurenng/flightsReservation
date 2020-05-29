@@ -1,0 +1,9 @@
+#
+# first: searches for a boolean 3 second) searches for the 50th day of month
+search "Seattle WA" "Portland OR" 1 50 10
+quit
+*
+#
+No flights match your selection
+Goodbye
+*

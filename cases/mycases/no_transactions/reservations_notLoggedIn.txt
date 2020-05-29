@@ -1,0 +1,9 @@
+#
+# Tries to look at reservation while not logged in
+reservations
+quit
+*
+#
+Cannot view reservations, not logged in
+Goodbye
+*

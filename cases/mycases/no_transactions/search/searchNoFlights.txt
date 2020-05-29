@@ -1,0 +1,9 @@
+#
+# Searches for flights that don't exist
+search "Seattle WA" "Hattiesburg/Laurel MS" 0 5 10
+quit
+*
+#
+No flights match your selection
+Goodbye
+*

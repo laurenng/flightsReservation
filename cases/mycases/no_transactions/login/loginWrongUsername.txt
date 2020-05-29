@@ -1,0 +1,13 @@
+#
+# create a user. tries and logs in with wrong username then logs in with current user name
+create bubble bubble 80
+login bubbbblee bubble
+login bubble bubble 
+quit
+*
+#
+Created user bubble
+Login failed
+Logged in as bubble
+Goodbye
+*

@@ -1,0 +1,11 @@
+#
+# creates user in upper case then logins with lowercase username
+create LAUREN lauren 100
+login lauren lauren
+quit
+*
+#
+Created user LAUREN
+Logged in as lauren
+Goodbye
+*

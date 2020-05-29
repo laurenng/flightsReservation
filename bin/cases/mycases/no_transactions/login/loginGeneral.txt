@@ -1,0 +1,15 @@
+#
+# create a single user
+create dog dog 100
+login dog puppy
+login dog dog
+login dog dog
+quit
+*
+#
+Created user dog
+Login failed
+Logged in as dog
+User already logged in
+Goodbye
+*

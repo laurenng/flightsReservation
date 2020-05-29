@@ -1,0 +1,11 @@
+#
+# Create single user and then tries to create same user
+create potato potato 200
+create potato potato 200
+quit
+*
+#
+Created user potato
+Failed to create user
+Goodbye
+*
